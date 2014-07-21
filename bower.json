@@ -15,10 +15,5 @@
   ],
   "dependencies": {
     "phaser": "~1.1"
-  },
-  "overrides": {
-    "phaser": {
-      "main": "./custom/phaser-no-libs.js"
-    }
   }
 }

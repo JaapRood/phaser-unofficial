@@ -1,3 +1,4 @@
+var PIXI = require('./pixi');
 /**
 * @author       Richard Davey <rich@photonstorm.com>
 * @copyright    2014 Photon Storm Ltd.

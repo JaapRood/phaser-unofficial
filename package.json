@@ -34,6 +34,9 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "~3.8.6",
-    "main-bower-files": "~1.0.1"
-  }
+    "gulp-concat": "~2.3.3",
+    "gulp-rimraf": "~0.1.0",
+    "gulp-header": "~1.0.5"
+  },
+  "dependencies": {}
 }
