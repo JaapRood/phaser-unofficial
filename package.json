@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "git://github.com/JaapRood/phaser-unofficial.git",
+  "homepage": "https://github.com/JaapRood/phaser-unofficial",
   "author": {
     "name": "Jaap Rood",
     "email": "jaap@jaaprood.com",
