@@ -1,0 +1,39 @@
+{
+  "name": "phaser-unofficial",
+  "version": "2.0.4",
+  "description": "NPM version of the Phaser game engine",
+  "main": "dist/phaser-no-libs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jaap Rood",
+    "email": "jaap@jaaprood.com",
+    "url": "http://jaaprood.com"
+  },
+  "keywords": [
+    "phaser",
+    "html5",
+    "game",
+    "games",
+    "framework",
+    "canvas",
+    "WebGL",
+    "tilemaps",
+    "physics",
+    "sprites",
+    "fonts",
+    "images",
+    "audio",
+    "Web",
+    "Audio",
+    "touch",
+    "input",
+    "mobile"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.6",
+    "main-bower-files": "~1.0.1"
+  }
+}
