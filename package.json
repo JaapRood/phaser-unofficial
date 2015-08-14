@@ -1,6 +1,6 @@
 {
   "name": "phaser-unofficial",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "NPM version of the Phaser game engine",
   "main": "dist/phaser-no-libs.js",
   "scripts": {

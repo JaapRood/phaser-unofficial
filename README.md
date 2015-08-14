@@ -1,3 +1,6 @@
+# Deprecated, use the official [`phaser`](https://www.npmjs.com/package/phaser) which is now compatible with NPM and Browserify.
+
+
 # Unofficial NPM package for Phaser
 
 Phaser is a pretty cool engine for making games in the browser, but unfortunately the original repo doesn't play to nice with NPM and, by extension, Browserify. Until the official package decides to support NPM you can use this (when this happens, raise an issue and we'll have this unpublished on npm in no time).
